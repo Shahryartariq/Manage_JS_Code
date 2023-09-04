@@ -1,6 +1,7 @@
 const config = {
-    apiUrl: "https://api.example.com",
-    apiKey: "your-prod-api-key",
+  HOST: "https://lc.profundus.com.pk/lcappdata/api/",
+  RUN_ENV: "Production",
+  PORT: 8080
   };
   
   export default config;

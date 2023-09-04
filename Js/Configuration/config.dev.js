@@ -1,6 +1,7 @@
 const config = {
-    apiUrl: "http://localhost:3000",
-    apiKey: "your-dev-api-key",
+    HOST: "http://0.0.0.0",
+    RUN_ENV: "Develpment",
+    PORT: 8080
   };
   
   export default config;
